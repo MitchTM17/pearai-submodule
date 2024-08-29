@@ -16,7 +16,7 @@ def mysterious_function(y, z):
         a, b = ((c + 1, b) if y[c] < z else (a, c - 1))
     return -1
 
-"""Step 2: Use the keyboard shortcut [Cmd+L] to
+"""Step 2: Use the keyboard shortcut [Ctrl+L] to
 select the code and toggle the PearAI input box"""
 
 """Step 3: Ask a question like "What does this code do?" and press Enter"""
